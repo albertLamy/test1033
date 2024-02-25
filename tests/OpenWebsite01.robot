@@ -23,7 +23,7 @@ ${MyBrowser3}    firefox
 Test01
     [Documentation]    Open URL with Internet browser
     [Tags]    TC001
-    Open Browser    https://www.telemis.com/    ${MyBrowser3}
+    Open Browser    https://www.telemis.com/    ${MyBrowser2}
 
 Test02
     [Documentation]    Check that the title exists on the main page
