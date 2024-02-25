@@ -10,7 +10,7 @@ Library    BuiltIn
 
 *** Variables ***
 
-${MyHostname}    127.0.0.1
+${MyHostname}    10.32.1.2
 ${MyBrowser1}    edge
 ${MyBrowser2}    chrome
 ${MyBrowser3}    firefox
